@@ -1,0 +1,43 @@
+/* Estilo para el cuerpo */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    min-height: 70px;
+}
+
+#navbarNav a{
+    margin-left: 180px;
+}
+
+/* Sección Acerca de Nike */
+.about-section {
+    background-color: #000; /* Fondo negro */
+    color: #fff; /* Texto blanco */
+}
+
+.about-section h1 {
+    color: #ffffff; /* Color dorado */
+}
+
+.about-section p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+/* Imagen */
+.about-section img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 2rem;
+}
+
+/* Footer */
+footer hr {
+    opacity: 0.2;
+}
+
+footer a:hover {
+    color: rgb(105, 100, 100) !important;
+}

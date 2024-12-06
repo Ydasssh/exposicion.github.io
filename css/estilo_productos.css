@@ -1,0 +1,46 @@
+/* reset estilos */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+
+  font-size: 62.5%;
+}
+
+#logo {
+  width: 70px;
+  height: 70px;
+}
+/* Aumentar el tamaño de la fuente del navbar */
+.navbar .navbar-nav .nav-link {
+  margin-left: 200px;
+    font-size: 1.8rem; /* Tamaño de fuente más grande */
+}
+
+/* Estilo para el nombre del logo */
+.navbar-brand {
+    font-size: 1.5rem; /* Tamaño de fuente más grande */
+}
+
+/* Ajustes para los íconos del menú */
+.menu-icon i {
+    font-size: 1.5rem; /* Tamaño más grande para el icono de menú */
+}
+
+
+/* footer */
+
+footer {
+  font-size: 1.3rem;
+}
+
+footer a{
+  color: black;
+}
+
+footer hr {
+  opacity: 0.2;
+} 
+
